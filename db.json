@@ -1,0 +1,31 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Ravi Kumar",
+      "department": "IT",
+      "salary": 50000,
+      "gender": "Male",
+      "startDate": "2023-01-15",
+      "note": "Full Stack Developer"
+    },
+    {
+      "id": 2,
+      "name": "Priya Singh",
+      "department": "HR",
+      "salary": 45000,
+      "gender": "Female",
+      "startDate": "2023-03-10",
+      "note": "HR Manager"
+    },
+    {
+      "id": 3,
+      "name": "Amit Sharma",
+      "department": "Finance",
+      "salary": 55000,
+      "gender": "Male",
+      "startDate": "2022-07-20",
+      "note": "Finance Analyst"
+    }
+  ]
+}
